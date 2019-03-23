@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-1",
+  "version": "1.0.1",
+  "description": "Primer Trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nelson Felipe Barco Benavides nfbarcob@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
