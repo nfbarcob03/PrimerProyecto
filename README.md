@@ -7,3 +7,5 @@
 3 luego de instalar todas las librerias iniciar con "nodemon"
 
 4  la aplicacion se abre en localhost
+
+5 abrir en el navegador localhost:3000
